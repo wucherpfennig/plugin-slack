@@ -12,6 +12,7 @@ Author
 ------
 
 - Frederic Guillot
+- Daniel Studhalter
 - License MIT
 
 Requirements
